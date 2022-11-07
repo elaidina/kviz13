@@ -14,7 +14,7 @@ const quizData = [
       correct: "b",
   },
   {
-    question: "3. Koľko trojíc může vytvořit 27 didlin.?",
+    question: "3. Kolik trojic může vytvořit 27 didlin?",
     a: "10",
     b: "9",
     
@@ -35,8 +35,8 @@ const quizData = [
 },
 {
 question: "6. Adrián koupil 5 stavebnic za 50 euro. Kolik eur stála jedna stavebnice?",
-a: "pravda",
-b: "lež",
+a: "20",
+b: "10",
 
 correct: "b",
 },{
@@ -86,7 +86,7 @@ correct: "a",
   correct: "a",
 },
 {
-question: "14. Děti sbíralikaštany pro zvířatá na zimu. Holky nasbírali 23 kg. Kluci nasbírali o 2 kg více. Kolik kilogramů kaštanů nasbírali všechny děti spolu?",
+question: "14. Děti sbírali kaštany pro zvířatá na zimu. Holky nasbírali 23 kg. Kluci nasbírali o 2 kg více. Kolik kilogramů kaštanů nasbírali všechny děti spolu?",
 a: "48",
 b: "47",
 
@@ -119,8 +119,8 @@ b: "42",
 correct: "b",
 },{
   question: "19. V restauraci je 8 stolů. Při každém jsou 4 židle. Kolik mají v restauraci židlí?",
-  a: "pravda",
-  b: "lež",
+  a: "32",
+  b: "30",
   
   correct: "a",
 },
